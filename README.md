@@ -1,34 +1,37 @@
-# Olá, eu sou o Mateus Alves! 👋
+# 👋 Olá, eu sou Mateus Alves
 
-Especialista em TI focado em **Gestão de TI e Inteligência de Dados**. Desenvolvedor Full Stack apaixonado por criar soluções eficientes e sistemas de gestão.
-
----
-
-### 🛠️ Minhas Tecnologias & Ferramentas
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+💻 Desenvolvedor focado em tecnologia e soluções digitais  
+🚀 Em constante evolução na área de desenvolvimento
 
 ---
 
-### 📊 Estatísticas do GitHub
-Aqui você pode acompanhar meu progresso e contribuições:
+## 🧠 Tecnologias & Ferramentas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusteuzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusteuzin&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+### 💻 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🐍 Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔷 Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📂 Projetos Principais
-* **Fluxen**: Sistema de gestão de vendas completo.
-* **HelpDesk Pro**: Sistema de chamados estruturado com MySQL.
-* **Portfolio Pessoal**: Minha vitrine digital onde apresento minhas skills em ITIL e COBIT.
+## 📈 Objetivo
+
+Atuar como desenvolvedor e criar projetos profissionais, buscando crescimento constante na área de tecnologia.
 
 ---
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+## 📬 Contato
+
+📧 Email: ma2664223@gmail.com
+💼 LinkedIn: https://linkedin.com/in/mateus-alves-1b4a28312
