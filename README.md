@@ -58,7 +58,7 @@ Também desenvolvo projetos práticos com dashboards, sites responsivos e sistem
 
 Confira alguns dos meus projetos e trabalhos:
 
-🔗 [Acessar meu portfólio](https://portfolio2-mateus.vercel.app/)
+🔗 [Acessar meu portfólio](https://mateusteuzin.github.io/portf-lio-2026-MATEUS-ALVES/)
 
 ---
 
