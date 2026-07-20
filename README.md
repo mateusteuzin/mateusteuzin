@@ -68,7 +68,7 @@ Também desenvolvo projetos práticos com dashboards, sites responsivos e sistem
 
 Confira alguns dos meus projetos e trabalhos:
 
-🔗 [Acessar meu portfólio](https://portfolio2-mateus.vercel.app/)
+🔗 [Acessar meu portfólio](https://mateusteuzin.github.io/portf-lio-2026-MATEUS-ALVES/)
 
 ---
 
@@ -97,4 +97,4 @@ Busco uma oportunidade na área de tecnologia, principalmente em:
 
 🔗 **LinkedIn:** [linkedin.com/in/mateus-alves-1b4a28312](https://www.linkedin.com/in/mateus-alves-1b4a28312)
 
-🌐 **Portfólio:** [portfolio2-mateus.vercel.app](https://portfolio2-mateus.vercel.app/)
+🌐 **Portfólio:** [portfolio2-mateus.vercel.app](https://mateusteuzin.github.io/portf-lio-2026-MATEUS-ALVES/)
