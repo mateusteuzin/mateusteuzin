@@ -14,6 +14,24 @@ Sou **Mateus Alves**, estudante de Gestão da Tecnologia da Informação. Desenv
 
 <br>
 
+## Tecnologias / minha caixa de ferramentas
+
+### Interfaces
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React e Vite" />
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs&theme=dark" alt="Java, Spring Boot, Python, FastAPI e Node.js" />
+
+### Dados e ferramentas
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,vscode,postman,vercel&theme=dark" alt="PostgreSQL, MySQL, Supabase, Git, GitHub, VS Code, Postman e Vercel" />
+
+<sub>React, TypeScript, Java e Spring Boot fazem parte do meu aprofundamento atual.</sub>
+
+<br>
+
 ## Projetos / selecionados
 
 <table>
